@@ -2,7 +2,15 @@
 
 This is a small project using the JSS library for CSS styling in React. What it does is swap between colours depending on states and theme with props.
 
-## How to install
+## How to install and run this project
+
+Unpack and run this code in your prefered code editor.
+
+1. npm install to install all dependencies
+2. npm run dev to start the project
+3. press o to open up in browser if it doesnt do it by itself
+
+### How to install React JSS
 
 To install React JSS, the version of JSS used for this project, you install it by typing npm install react-jss in the terminal.
 After that you're ready to start styling with JSS.
